@@ -1,7 +1,7 @@
 # InstagramFeed
 
-Instagram FEED by HASHTAG - THE ONLY ONE
-23 Dec 2016.
+Instagram FEED by HASHTAG - THE ONLY ONE<br>
+23 Dec 2016.<br>
 add Instagram photos to your website.<br>
 No Instagram login needed.<br>
 No coding skills required.<br>
