@@ -5,5 +5,5 @@
                     $HASHTAG=$_GET["hash"];
                     $LARG=$_GET["w"];
                     $ALT=$_GET["h"];
-                    include('http://jackontherocks.tk/InstaFeed/instaFeed.php');
+                    include('http://hashtagfeed.info/instagramFeed.php');
 ?>
