@@ -11,7 +11,7 @@ Simple as taking a selfie (:<br>
 <br>
 just set up rows, columns,hashtag,width and height and paste it in your web.<br>
 <br>
-go to http://hashtagfeed.info/index.php to try it and create your instagram feed.<br>
+go to http://hashtagfeed.info to try it and create your instagram feed.<br>
 <br>
 <?php<br>
 $RIGHE=2;<br>
